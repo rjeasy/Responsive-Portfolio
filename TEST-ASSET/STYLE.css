@@ -228,3 +228,31 @@ nav a:hover {
   cursor: pointer;
   opacity: 0.8;
 }
+
+.wrapper {
+
+}
+header .wrapper {
+
+/* displays on mobile devices */
+}
+@media only screen and  (max-width: 640px) {
+	header {
+		position: static;
+	}
+}
+
+/* displays on ipad devices */
+@@media only screen and (min-width: 641px) and (max-width: 768px) {
+		.wrapper	{
+
+		}
+}
+
+/* displays on laptop devices */
+@media only screen and (max-width: 980px){
+	.wrapper {
+	
+	}
+}
+

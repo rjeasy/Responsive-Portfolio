@@ -1,6 +1,6 @@
 # Responsive-Portfolio
-
-
+<p>
+    In this assignment we were required to create 3 htmls that included: about me, portfolio, and contact pages. These pages are linked and mobile-responsive in layout. 
 
 # Gitting started
 <p>

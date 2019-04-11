@@ -229,30 +229,56 @@ nav a:hover {
   opacity: 0.8;
 }
 
-.wrapper {
 
-}
 header .wrapper {
 
 /* displays on mobile devices */
 }
 @media only screen and  (max-width: 640px) {
 	header {
+
 		position: static;
+	}
+	nav {
+		width: 100%;
+	}
+	nav ul {
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+	.Me {
+		width: 100%;
 	}
 }
 
 /* displays on ipad devices */
-@@media only screen and (min-width: 641px) and (max-width: 768px) {
-		.wrapper	{
+@media only screen and (max-width: 768px) {
+	nav {
+		width: 100%;
+	}
+	nav ul {
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+	header {
+		margin-bottom: 0;
+		border-bottom: 0;
+	}
 
-		}
 }
 
 /* displays on laptop devices */
 @media only screen and (max-width: 980px){
-	.wrapper {
-	
+	nav {
+		width: 100%;
+	}
+	nav ul {
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+	header {
+		margin-bottom: 0;
+		border-bottom: 0;
 	}
 }
 

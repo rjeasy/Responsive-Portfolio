@@ -1,6 +1,9 @@
 # Responsive-Portfolio
 <p>
-  "Click on the following link to preview the compted assigment"
-  <br>
-<a href ="file:///C:/Users/rjeas/Desktop/HOMEWORK/Responsive-Portfolio/Index.html" rel="nofollow"> https://rjeasy.github.io/Responsive-Portfolio/</a>
-  </p>
+    In this assignment we were required to create 3 htmls that included: about me, portfolio, and contact pages. These pages are linked and mobile-responsive in layout. 
+
+# Getting started
+<p>
+Click on the following link to preview the completed assigment:
+   https://rjeasy.github.io/Responsive-Portfolio/
+  

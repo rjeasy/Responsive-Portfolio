@@ -1,2 +1,0 @@
-//Need to currect displays to show on mobile and ipad
-//Also need to correct my rows to allow page to display properly
